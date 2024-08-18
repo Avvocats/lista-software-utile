@@ -5,7 +5,7 @@
 
 ***TEST HARDWARE***
 > `#0969DA`
-> OCCT
+ OCCT
 
 HWiNFO64
 
