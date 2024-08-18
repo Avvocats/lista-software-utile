@@ -4,7 +4,8 @@
 
 
 ***TEST HARDWARE***
-#d1bb0a OCCT
+`#0969DA`
+OCCT
 
 HWiNFO64
 
