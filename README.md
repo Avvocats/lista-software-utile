@@ -4,9 +4,9 @@
 
 
 ***TEST HARDWARE***
-`#0969DA`
-OCCT
-`#0969DA`
+> `#0969DA`
+> OCCT
+
 HWiNFO64
 
 phoronix-test-suite-10.8.4
