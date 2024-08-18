@@ -450,3 +450,7 @@ CloneSpy [pulizia dei file duplicati ]
 Eusing Free Registry Cleaner [è un software gratuito per la riparazione del registro]
 ###
 EasyBCD [Avviare qualsiasi cosa, Windows, Linux, macOS e BSD! Avvia da e in unità USB, immagini ISO, dischi virtuali e altro ancora]
+
+***ONLINE SITO LANDING PAGE SENZA REGISTRAZIONE***
+
+<https://telegra.ph/>
