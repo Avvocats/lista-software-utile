@@ -6,7 +6,7 @@
 ***TEST HARDWARE***
 `#0969DA`
 OCCT
-
+`#0969DA`
 HWiNFO64
 
 phoronix-test-suite-10.8.4
