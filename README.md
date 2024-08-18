@@ -1,6 +1,6 @@
 # lista-software-utile
-[!NOTE]
-Elenco di software fondamentale da installare
+> [!NOTE]
+> Elenco di software fondamentale da installare
 
 
 ***TEST HARDWARE***
