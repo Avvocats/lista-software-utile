@@ -1,4 +1,5 @@
 # lista-software-utile
+[!NOTE]
 Elenco di software fondamentale da installare
 
 
