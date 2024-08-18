@@ -111,7 +111,7 @@ estensioni:
 
 Firefox  
 
-ESTENSIONE FIREFOX BARRA LATERALE file impostazioni: sidebery-data-2024.06.10-00.45.38
+ESTENSIONE FIREFOX BARRA LATERALE sidebery
 
 estensioni:
 
