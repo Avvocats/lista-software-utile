@@ -5,7 +5,7 @@
 
 **TEST HARDWARE**
 
-red color OCCT red color
+<span style="color:red">OCCT</span>
 
 HWiNFO64
 
