@@ -5,7 +5,7 @@
 
 **TEST HARDWARE**
 
-U+1F534 OCCT
+$${\color{red}Red}$$ OCCT
 
 HWiNFO64
 
