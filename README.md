@@ -5,7 +5,7 @@
 
 **TEST HARDWARE**
 
-$\color{color-code}~{OCCT}$
+red color OCCT red color
 
 HWiNFO64
 
