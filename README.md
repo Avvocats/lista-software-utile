@@ -6,22 +6,39 @@
 **TEST HARDWARE**
 
 🟡 OCCT
+
 🟡HWiNFO64
+
 🟡phoronix-test-suite-10.8.4
+
 🟡Geekbench-6.0.0-
+
 🟡openhardwaremonitor-v0.9.6
+
 🟡Futuremark SystemInfo
+
 🟡AIDA64 extreme [Trial 30 giorni]
+
 🔵Intel PresentMon
+
 🔵CapFrameX
+
 🔵GPU-Z
+
 🔵Heaven Benchmark
+
 🔵MSI afterburner
+
 🔴cpu-z\_2.03-rog-en
+
 🔴CPU Core Analyzer
+
 🔴CPU Wagnardsoft WCB v1.1.0.0
+
 🔴ThrottleStop
+
 🔴S-Tui + FIRESTARTER  [Linux]
+
 🔴CPU-X [Linux]
 
 MemTest86
