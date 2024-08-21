@@ -57,7 +57,7 @@
 
 🟢Drive Power Manager
 
-Monitor test
+🟦Monitor test
 
 ***DISCO VIRTUALE***
 
@@ -96,20 +96,20 @@ google chrome
 
 estensioni:  
 
-- Ghostery
-- Cookie AutoDelete
-- Adblock Plus - ad-blocker gratuito
-- Cookie AutoDelete
-- PopUpOFF - Popup and overlay blocker
-- Privacy Badger
-- uBlock Origin
+🟦- Ghostery
+🟦- Cookie AutoDelete
+🟦- Adblock Plus - ad-blocker gratuito
+🟦- Cookie AutoDelete
+🟦- PopUpOFF - Popup and overlay blocker
+🟦- Privacy Badger
+🟦- uBlock Origin
 - Keepa - Amazon Price Tracker
-- visualping
-- pagemonitor
-- distill web monitor
-- web monitor
-- siteDelta Highlight
-- SiteDela Watch
+🟥- visualping
+🟥- pagemonitor
+🟥- distill web monitor
+🟥- web monitor
+🟥- siteDelta Highlight
+🟥- SiteDela Watch
 
 Firefox  
 
@@ -117,16 +117,16 @@ ESTENSIONE FIREFOX BARRA LATERALE sidebery
 
 estensioni:
 
-- ` `Sidebery
-- Ghostery
-- Cookie AutoDelete
-- Adblock Plus - ad-blocker gratuito
-- Cookie AutoDelete
-- PopUpOFF - Popup and overlay blocker
-- Privacy Badger
-- uBlock Origin
+🟨- Sidebery
+🟦- Ghostery
+🟦- Cookie AutoDelete
+🟦- Adblock Plus - ad-blocker gratuito
+🟦- Cookie AutoDelete
+🟦- PopUpOFF - Popup and overlay blocker
+🟦- Privacy Badger
+🟦- uBlock Origin
 - Keepa - Amazon Price Tracker
-- update scanner
+🟥- update scanner
 
 ***MONITORARE AGGIORNAMENTO AI SITI***
 
