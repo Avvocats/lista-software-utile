@@ -5,7 +5,7 @@
 
 **TEST HARDWARE**
 
-WS2812 signal OCCT
+U+1F534 OCCT
 
 HWiNFO64
 
