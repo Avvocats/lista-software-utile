@@ -5,7 +5,7 @@
 
 **TEST HARDWARE**
 
-$${\color{red}Red}$$ OCCT $${\color{red}Red}$$
+$\color{color-code}{OCCT}$
 
 HWiNFO64
 
