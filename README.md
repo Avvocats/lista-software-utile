@@ -41,21 +41,21 @@
 
 🔴CPU-X [Linux]
 
-MemTest86
+⚪MemTest86
 
-Mz RAM Booster
+⚪Mz RAM Booster
 
-Hard Drive Inspector
+🟢Hard Drive Inspector
 
-CrystalDiskInfo9\_3\_0
+🟢CrystalDiskInfo9\_3\_0
 
-<a name="h.p_id_150"></a>FakeFlashTest
+🟢FakeFlashTest
 
-validrive
+🟢validrive
 
-HD Tune Pro [Trial 30 giorni]
+🟢HD Tune Pro [Trial 30 giorni]
 
-Drive Power Manager
+🟢Drive Power Manager
 
 Monitor test
 
