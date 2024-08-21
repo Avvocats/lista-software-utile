@@ -3,7 +3,7 @@
 > Elenco di software fondamentale da installare
 
 
-***TEST HARDWARE***
+**TEST HARDWARE**
 
  OCCT
 
