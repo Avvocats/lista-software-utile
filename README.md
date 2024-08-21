@@ -97,19 +97,33 @@ google chrome
 estensioni:  
 
 🟦- Ghostery
+
 🟦- Cookie AutoDelete
+
 🟦- Adblock Plus - ad-blocker gratuito
+
 🟦- Cookie AutoDelete
+
 🟦- PopUpOFF - Popup and overlay blocker
+
 🟦- Privacy Badger
+
 🟦- uBlock Origin
+
 - Keepa - Amazon Price Tracker
+- 
 🟥- visualping
+
 🟥- pagemonitor
+
 🟥- distill web monitor
+
 🟥- web monitor
+
 🟥- siteDelta Highlight
+
 🟥- SiteDela Watch
+
 
 Firefox  
 
