@@ -132,15 +132,25 @@ ESTENSIONE FIREFOX BARRA LATERALE sidebery
 estensioni:
 
 🟨- Sidebery
+
 🟦- Ghostery
+
 🟦- Cookie AutoDelete
+
 🟦- Adblock Plus - ad-blocker gratuito
+
 🟦- Cookie AutoDelete
+
 🟦- PopUpOFF - Popup and overlay blocker
+
 🟦- Privacy Badger
+
 🟦- uBlock Origin
+
 - Keepa - Amazon Price Tracker
+- 
 🟥- update scanner
+
 
 ***MONITORARE AGGIORNAMENTO AI SITI***
 
